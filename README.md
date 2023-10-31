@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Projeto: [trabalho de javascript](https://javascript-to-do-list-gray.vercel.app/)
+Projeto: [trabalho de javascript](https://javascript-to-do-list-one.vercel.app/)
 
 O usuário digita uma atividade, pressiona “Enter” ou clica em “Adicionar” para adicioná-la à lista. Caso não queira uma atividade, você pode removê-la ou até mesmo remover todas elas conforme desejar.
 
